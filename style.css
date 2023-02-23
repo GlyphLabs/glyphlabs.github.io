@@ -175,7 +175,6 @@ nav.site ul li {
 
 .content { 
     animation: scroll 3s 1;
-    overflow: hidden !important;
     padding: 40px; 
     position: relative;
     width: 95%;
